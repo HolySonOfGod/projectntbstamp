@@ -1,0 +1,261 @@
+*{margin:0; padding:0;}
+body{background-color:#110901;}
+img{border:0; text-align:left; vertical-align:top;}
+ul{list-style:none;}
+li{line-height:0;}
+.column{float:left;}
+.container{width:100%; overflow:hidden;}
+body{font-family:Georgia, "Times New Roman", Times, serif; color:#BDB49E; font-size:0.75em; line-height:1.33em; text-align:center;}
+input, textarea, select{color:#000000; vertical-align:top; border: 1px solid #D0D0D0; font:12px Georgia, Arial, helvetica, sans-serif; padding-left:5px;}
+.float-right{float:right;}
+.align-right{text-align:right;}
+.block{display:block;}
+.top-indent-1{margin-top:5px; display:block;}
+.top-indent-2{margin-top:10px; display:block;}
+.top-indent-3{margin-top:15px; display:block;}
+.top-indent-4{margin-top:20px; display:block;}
+.top-indent-5{margin-top:25px; display:block;}
+
+.width-stretch{width:100%;}
+
+.col-1, .col-2, .col-3, .box-1, .box-2, .box-3, .col-middle{float:left;}
+.detailpage {
+    float: left;
+    width: 270px;
+    padding: 10px;
+}
+.noidung {padding:0px 0 35px 0px;}
+.ndtrai { float:left;width:197px; background:url(../images/header_line_y.gif) 186px top repeat-y; color:#867164; margin-left: -10px;}
+.ndphai {width:730px; float:right; padding-left: 0px; padding-right: 0px; padding-bottom: 10px;}
+.tieudenews {
+    font-size: 18px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#654c3d;
+	background:url(../images/psd/muiten2.gif) left no-repeat;
+	padding-left:35px;
+	text-decoration:none;
+}
+.newstype {
+	font-size:12px;
+	color:#666;
+	font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+	margin-bottom:5px;
+}
+.gioithieu {
+	background: #e8dfcd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:5px;
+	width:680px;
+	color:#000;	
+}
+.gioithieu1 {
+	background: #e8dfcd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:5px;
+	width:460px;
+	color:#000;	
+}
+.gioithieu3 {
+	background: #e8dfcd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:5px;
+	width:380px;
+	color:#000;
+}
+.gioithieu2 {
+	background: #e8dfcd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:5px;
+	width:650px;
+        margin-top: 5px;
+	color:#000;
+}
+.noidungnews {
+	border-top:1px solid #900; 
+	border-bottom:1px solid #900; 
+	width:670px;
+	color:#333;	
+	padding-top:5px;
+	padding-bottom:5px;
+        text-align: justify;
+        padding: 10px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.hinhtrai {
+	width:200px;
+	float:left;
+	padding:5px;
+	margin-top:10px;
+}
+.khungphai {
+	width:470px;
+	float:left;
+}
+.khungphai1 {
+	width:98%;
+	float:left;
+}
+.khungmenu1 {
+	font-size: 14px;
+        font-weight: bold;
+        font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#654c3d;
+	background:url(../images/psd/muiten.png) left no-repeat;
+	padding-left:12px;
+	text-decoration:none;
+	width:160px;       
+}
+.khungnho {
+    width: 220px; border: 0;
+}
+.khung0 {border: none; background: none;}
+/*=======header===========*/
+.flash{height:492px;}
+.header_form{background:url(../images/header_form_bg.jpg) left bottom no-repeat; padding:6px 0 0 45px;}
+.header_form .box-1{width:508px;}
+.header_form .box-2{width:228px;}
+.header_form .box-2 .text{position:absolute; width:78px; margin:60px 0 0 320px; color:#7F7764; line-height:1.5em; text-align:right;}
+
+.header_form .box-1 .box-1{width:197px; background:url(../images/header_line_y.gif) 156px top no-repeat; color:#867164;}
+.header_form .box-1 .box-2{width:290px; background:url(../images/header_line_y.gif) right top no-repeat;}
+
+.header_form .box-1 .box-1 div{height:21px;}
+.header_form .box-1 .box-1 .radio{width:15px; height:15px; margin:0 5px 0 0; border:0; background:0;}
+
+.header_form a{color:#BB3500; text-decoration:underline; font-size:1.09em;}
+.header_form a:hover{text-decoration:none;}
+.header_form select {color:#968A75; border:1px solid #9F967F; }
+.header_form select{width:189px; height:19px;}
+.header_form input[type="text"]{width:200px; height:19px;}
+.header_form input[type="password"]{width:200px; height:19px;}
+.header_form input[type="button"]{width:200px; height:19px;}
+.header_form .row{height:33px;}
+#txtsearch {width:50px; float:left;}
+#txtsearch1 { float:left;}
+/*=====//header===========*/
+h1, .tieude {font-weight: bold; color: #110901; font-size: 14px;
+background: url(../images/psd/muiten.png) left no-repeat;
+padding-left: 12px;
+}
+.post {
+    width: 700px;
+}
+.faqKhung {
+    width: 700px; padding: 5px;
+    background:#f3eddd;
+   
+    margin-bottom: 5px;
+}
+.menuKhung {
+    width: 160px; padding: 5px;
+    background: none;
+    border: 0px;
+}
+.khungfaq { color: #787878; font-size: 12px;}
+/*=======content===========*/
+#content{padding:0px 20px 35px 43px; background:url(../images/content_bg.jpg) center no-repeat;}
+
+a{color:#BDB49E; text-decoration:underline;}
+a:hover{text-decoration:none;}
+
+.fonr-2{color:#C4BBA6;}
+
+li{padding:4px 0 4px 14px; background:url(../images/list_marker.gif) left center no-repeat;}
+li a{color:#C05A00; text-decoration:underline; line-height:1em;}
+li a:hover{text-decoration:none;}
+
+.title{margin-bottom:15px;}
+.title-2{margin-bottom:15px; margin-top:40px;}
+
+.link-2{color:#7CB532; text-decoration:underline; font-size:1.25em; line-height:1.06em;}
+.link-2:hover{text-decoration:none;}
+
+.col-middle{background:url(../images/line_y.gif) center top repeat-y;}
+
+.list-2 li{padding:0 0 10px 0; background:0;}
+.list-2 li a{color:#C1B8A2; line-height:1em; text-decoration:none;}
+.list-2 li a:hover{text-decoration:underline;}
+.list-2 li span{float:right; width:45px; display:block; padding-bottom:5px;}
+.list-2 li span a{color:#837D6D;}
+
+.link-3{color:#FFFFFF; font-family:Tahoma, Arial, Helvetica, sans-serif; text-decoration:none; padding:4px 8px 5px 10px; background:#36A3DB; font-size:0.91em;}
+.link-3:hover{text-decoration:underline;}
+
+.link-4{color:#C4BBA6; text-decoration:underline;}
+.link-4:hover{text-decoration:none;}
+
+.link-5{color:#FFFFFF; padding-left:10px; background:url(../images/link_marker.gif) left center no-repeat; text-decoration:underline;}
+.link-5:hover{text-decoration:none;}
+
+.link-6{color:#C05A00; text-decoration:underline;}
+.link-6:hover{text-decoration:none;}
+
+.img-float{margin-right:20px; float:left;}
+/*=====//content===========*/
+
+/*=======page_1===========*/
+#page1 .col-1 .img-indent{margin:0 1px;}
+
+#page1 .col-1 .box-1{width:168px; padding-right:35px;}
+#page1 .col-1 .box-2{width:165px; padding-right:33px;}
+#page1 .col-1 .box-3{width:162px;}
+/*=====//page_1===========*/
+
+/*=======page_2===========*/
+#page2 .col-1 .indent{padding:0 20px 0 0;}
+#page2 .col-1 .img-indent{float:right; margin:0 5px 0 43px;}
+
+#page2 .col-2 .title-2{margin-top:45px;}
+/*=====//page_2===========*/
+
+/*=======page_3===========*/
+#page3 .col-1 .indent{padding:0 20px 0 0;}
+/*=====//page_3===========*/
+
+/*=======page_4===========*/
+#page4 .col-1 .img-indent{margin:0 1px;}
+
+#page4 .col-1 .box-1{width:168px; padding-right:35px;}
+#page4 .col-1 .box-2{width:165px; padding-right:33px;}
+#page4 .col-1 .box-3{width:162px;}
+/*=====//page_4===========*/
+
+/*=======page_5===========*/
+#page5 .col-2 .float-right{padding-right:10px;}
+/*=====//page_5===========*/
+
+/*=======page_6===========*/
+#page6 .col-1 .float-right{padding-right:10px;}
+/*=====//page_6===========*/
+
+/*=======page_7===========*/
+#contact-form{width:100%; overflow:hidden;}
+#contact-form .box-1{width:265px;}
+#contact-form .box-1 div{height:28px;}
+#contact-form .box-2{width:269px;}
+
+
+#contact-form textarea{width:264px; height:148px; overflow:hidden;}
+#contact-form a{display:block; margin:12px 24px 0 0; float:left;}
+/*=====//page_7===========*/
+
+/*=======page_1===========*/
+#page8 #content{padding-right:54px;}
+/*=====//page_1===========*/
+
+/*=======footer===========*/
+#footer{background:url(../images/footer_bg.jpg) center top repeat-x; color:#4B290F;}
+#footer div{background:url(../images/footer_left.jpg) left top no-repeat;}
+#footer div div{background:url(../images/footer_right.jpg) right top no-repeat; padding:20px 0 10px 0; text-align:center;}
+#footer a{color:#4B290F; text-decoration:none;}
+#footer a:hover{text-decoration:underline;}
+/*=====//footer===========*/
