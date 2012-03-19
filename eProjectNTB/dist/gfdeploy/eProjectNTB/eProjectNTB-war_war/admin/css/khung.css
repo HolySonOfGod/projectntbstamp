@@ -1,0 +1,48 @@
+.khungchu {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    color: #003147;
+}
+.khungchu1 {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    color: #003147;
+    text-align: right;
+}
+.khungSave {
+    font-size: 16px;
+    width: 505px;
+    padding: 5px;
+}
+
+.khungSave1 {
+    font-size: 16px;
+    width: 425px;
+    padding: 2px;
+    text-align: center;
+}
+.khungSave2 {
+    font-size: 14px;
+    width: 400px;
+    text-align: center;
+}
+.khungSave3 {
+    font-size: 14px;
+    width: 200px;
+}
+.khungLogin {
+    font-size: 16px;
+    font-weight: bold;
+    width: 210px;
+    padding: 5px;
+}
+.khungLogin1 {
+   font-size: 16px;
+    font-weight: bold;
+    width: 220px;
+    padding: 5px;
+}

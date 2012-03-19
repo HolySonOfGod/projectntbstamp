@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="style/u_Contract.jsp" x="2150" y="600" zoom="true"/>
+        <Node id="includepages/homeHeader.jsp" x="900" y="150" zoom="true"/>
+        <Node id="admin/buildingpage.jsp" x="900" y="1050" zoom="true"/>
+        <Node id="admin/PaymentDetail.jsp" x="1900" y="300" zoom="true"/>
+        <Node id="style/adminMeta.jsp" x="400" y="150" zoom="true"/>
+        <Node id="home/index.jsp" x="650" y="150" zoom="true"/>
+        <Node id="admin/FAQsInsert.jsp" x="1150" y="750" zoom="true"/>
+        <Node id="user/register.jsp" x="2650" y="300" zoom="true"/>
+        <Node id="admin/rolepage.jsp" x="150" y="212" zoom="true"/>
+        <Node id="user/userinfo.jsp" x="2900" y="150" zoom="true"/>
+        <Node id="user/apartmentType.jsp" x="1900" y="600" zoom="true"/>
+        <Node id="admin/articlepage.jsp" x="2150" y="300" zoom="true"/>
+        <Node id="style/adminHeader.jsp" x="150" y="750" zoom="true"/>
+        <Node id="user/apartment.jsp" x="1400" y="900" zoom="true"/>
+        <Node id="style/s_Selling.jsp" x="650" y="1050" zoom="true"/>
+        <Node id="admin/index.jsp" x="1400" y="450" zoom="true"/>
+        <Node id="style/u_Selling.jsp" x="1900" y="450" zoom="true"/>
+        <Node id="style/meta.jsp" x="900" y="450" zoom="true"/>
+        <Node id="admin/error.jsp" x="1150" y="1050" zoom="true"/>
+        <Node id="admin/newsInsert.jsp" x="1650" y="450" zoom="true"/>
+        <Node id="admin/ApartmentType.jsp" x="1150" y="900" zoom="true"/>
+        <Node id="admin/permitpage.jsp" x="150" y="1500" zoom="true"/>
+        <Node id="admin/countrypage.jsp" x="650" y="300" zoom="true"/>
+        <Node id="admin/newsList.jsp" x="650" y="900" zoom="true"/>
+        <Node id="admin/floor.jsp" x="2650" y="150" zoom="true"/>
+        <Node id="style/header.jsp" x="1150" y="150" zoom="true"/>
+        <Node id="admin/Contract.jsp" x="400" y="1200" zoom="true"/>
+        <Node id="admin/filemau.jsp" x="1400" y="150" zoom="true"/>
+        <Node id="user/faqView.jsp" x="400" y="600" zoom="true"/>
+        <Node id="admin/FAQsList.jsp" x="1650" y="150" zoom="true"/>
+        <Node id="user/contactUs.jsp" x="400" y="1050" zoom="true"/>
+        <Node id="style/s_FAQs.jsp" x="900" y="750" zoom="true"/>
+        <Node id="user/apartmentDetail.jsp" x="1650" y="750" zoom="true"/>
+        <Node id="user/newsDetail.jsp" x="2150" y="150" zoom="true"/>
+        <Node id="user/newsType.jsp" x="1150" y="450" zoom="true"/>
+        <Node id="user/floorDetail.jsp" x="1900" y="750" zoom="true"/>
+        <Node id="user/detail.html" x="900" y="300" zoom="true"/>
+        <Node id="user/feedbackInsert.jsp" x="1150" y="600" zoom="true"/>
+        <Node id="admin/index.html" x="1150" y="300" zoom="true"/>
+        <Node id="user/apartmentAll.jsp" x="2400" y="300" zoom="true"/>
+        <Node id="index.jsp" x="150" y="150" zoom="false"/>
+        <Node id="admin/accountpage.jsp" x="400" y="1350" zoom="true"/>
+        <Node id="user/paymentMode.jsp" x="900" y="1200" zoom="true"/>
+        <Node id="style/s_News.jsp" x="1900" y="150" zoom="true"/>
+        <Node id="admin/newsType.jsp" x="900" y="900" zoom="true"/>
+        <Node id="admin/paymentmode.jsp" x="150" y="900" zoom="true"/>
+        <Node id="style/u_FAQs.jsp" x="1400" y="300" zoom="true"/>
+        <Node id="user/search.jsp" x="1650" y="300" zoom="true"/>
+        <Node id="admin/imageUpload.jsp" x="1650" y="900" zoom="true"/>
+        <Node id="includepages/adminHeader.jsp" x="150" y="450" zoom="true"/>
+        <Node id="user/menu.jsp" x="650" y="1200" zoom="true"/>
+        <Node id="style/u_News.jsp" x="400" y="750" zoom="true"/>
+        <Node id="admin/Apartment.jsp" x="1650" y="600" zoom="true"/>
+        <Node id="style/s_Accounts.jsp" x="2400" y="150" zoom="true"/>
+        <Node id="admin/feedback.jsp" x="650" y="750" zoom="true"/>
+        <Node id="style/s_Contract.jsp" x="150" y="1350" zoom="true"/>
+        <Node id="user/login.jsp" x="150" y="300" zoom="true"/>
+        <Node id="admin/landpage.jsp" x="1400" y="750" zoom="true"/>
+        <Node id="user/newsList.jsp" x="150" y="1050" zoom="true"/>
+        <Node id="user/filemau.jsp" x="650" y="600" zoom="true"/>
+        <Node id="style/footer.jsp" x="650" y="450" zoom="true"/>
+        <Node id="user/home.jsp" x="150" y="1200" zoom="true"/>
+        <Node id="user/contract.jsp" x="2400" y="450" zoom="true"/>
+        <Node id="admin/image.jsp" x="1400" y="1050" zoom="true"/>
+        <Node id="user/news.jsp" x="900" y="600" zoom="true"/>
+        <Node id="style/u_Contact.jsp" x="1400" y="600" zoom="true"/>
+        <Node id="admin/locationpage.jsp" x="400" y="300" zoom="true"/>
+        <Node id="user/apartmentList.jsp" x="2150" y="450" zoom="true"/>
+        <Node id="user/newsAll.jsp" x="400" y="900" zoom="true"/>
+        <Node id="style/adminFooter.jsp" x="150" y="600" zoom="true"/>
+        <Node id="user/editUser.jsp" x="400" y="450" zoom="true"/>
+        <Node id="admin/login.jsp" x="150" y="1650" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
